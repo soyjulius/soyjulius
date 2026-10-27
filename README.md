@@ -93,6 +93,18 @@ modo_actual: "Siempre experimentando 🚀"
 - 📡 **Radioafición y SDR:** experimentar con radio, señales y comunicaciones alternativas.
 - 🛠️ **Homelab:** probar arquitecturas y documentar lo que aprendo.
 
+## 📡 Amateur Radio | HJ6VM
+
+**CQ CQ CQ DE HJ6VM**
+
+🇨🇴 Radioaficionado colombiano · Zona 6 · Categoría Novicio
+
+Apasionado por las comunicaciones por radio, SDR (Software Defined Radio), antenas, propagación y comunicaciones de emergencia.
+
+`RF` · `SDR` · `VHF/UHF` · `Emergency Communications` · `Experimentation`
+
+**73 de HJ6VM** 📡
+
 ### `$ cat beyond-the-code.txt`
 
 No todo es código. También me interesan la **música 🎵**, las **telecomunicaciones 📡**, el **emprendimiento 💡**, el **deporte 🚴** y enseñar o compartir conocimientos. Me encantan las conversaciones largas sobre tecnología y las ideas que terminan convertidas en proyectos.
