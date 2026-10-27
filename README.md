@@ -11,7 +11,8 @@
 [![Personal](https://img.shields.io/badge/Web_personal-soyjuli.us-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://soyjuli.us)
 [![Datosfera](https://img.shields.io/badge/Datosfera-datosfera.click-238636?style=for-the-badge&logo=linux&logoColor=white)](https://datosfera.click)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soyjulius/)
-[![Radio](https://img.shields.io/badge/Amateur_Radio-HJ6VM-30363D?style=for-the-badge&logo=gnometerminal&logoColor=white)](#-amateur-radio--hj6vm)
+[![X](https://img.shields.io/badge/X-@soyjuli__us-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/soyjuli_us)
+[![QRZ](https://img.shields.io/badge/QRZ-HJ6VM-30363D?style=for-the-badge&logo=radio&logoColor=white)](https://www.qrz.com/db/HJ6VM)
 
 </div>
 
