@@ -6,11 +6,12 @@
 
 **Tech Entrepreneur · Web Developer · Linux Enthusiast · Digital Strategist**
 
-📍 Dosquebradas, Colombia 🇨🇴 · 🚀 Construyendo proyectos digitales desde 2011
+📍 Dosquebradas, Colombia 🇨🇴 · 🚀 Construyendo soluciones digitales desde 2011
 
-[![Website](https://img.shields.io/badge/Website-soyjuli.us-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://soyjuli.us)
-[![Datosfera](https://img.shields.io/badge/Datosfera-Estrategias_Digitales-238636?style=for-the-badge&logo=wordpress&logoColor=white)](https://datosfera.net)
+[![Personal](https://img.shields.io/badge/Web_personal-soyjuli.us-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://soyjuli.us)
+[![Datosfera](https://img.shields.io/badge/Datosfera-datosfera.click-238636?style=for-the-badge&logo=linux&logoColor=white)](https://datosfera.click)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soyjulius/)
+[![Radio](https://img.shields.io/badge/Amateur_Radio-HJ6VM-30363D?style=for-the-badge&logo=gnometerminal&logoColor=white)](#-amateur-radio--hj6vm)
 
 </div>
 
@@ -18,11 +19,13 @@
 
 ### `$ whoami`
 
-Soy un **emprendedor tecnológico y desarrollador web** al que le apasiona convertir ideas en soluciones digitales que funcionan en el mundo real.
+Soy un **emprendedor tecnológico y desarrollador web** apasionado por convertir ideas en soluciones digitales que funcionan en el mundo real.
 
-Dirijo **[Datosfera S.A.S.](https://datosfera.net)**, una agencia digital colombiana desde la que trabajamos en desarrollo web, infraestructura tecnológica, estrategias digitales y soluciones a medida.
+Dirijo **Datosfera S.A.S.**, donde conectamos desarrollo web, infraestructura tecnológica, estrategia digital y soluciones a medida. Me gusta involucrarme tanto en la experiencia de quien utiliza una aplicación como en los servidores y procesos que la hacen posible.
 
-Me gusta entender cómo funcionan las cosas: desde el frontend de un sitio hasta el servidor que lo mantiene en línea. Disfruto experimentar, automatizar tareas, aprender tecnologías nuevas y compartir lo que descubro.
+En **[datosfera.click](https://datosfera.click)** reúno un punto de encuentro para conocer mi trabajo, proyectos e iniciativas tecnológicas.
+
+Disfruto experimentar, automatizar, aprender, resolver problemas y compartir lo que descubro.
 
 > **Mi filosofía:** aprender, construir, romper en laboratorio, solucionar y documentar. 🔧
 
@@ -45,6 +48,7 @@ intereses:
   - Seguridad informática y privacidad
   - Radioafición, SDR y telecomunicaciones
   - Música, tecnología y aprendizaje continuo
+radio_callsign: HJ6VM
 modo_actual: "Siempre experimentando 🚀"
 ```
 
@@ -53,10 +57,30 @@ modo_actual: "Siempre experimentando 🚀"
 - 🌐 **Web & eCommerce:** desarrollo y mantenimiento de sitios con WordPress, WooCommerce, Elementor y soluciones personalizadas.
 - 🐧 **Linux & Infrastructure:** administración de servidores, VPS, hosting, despliegues y mantenimiento de aplicaciones.
 - 🐳 **Containers & Self-hosting:** laboratorios y servicios desplegados con Docker y herramientas open source.
-- ⚙️ **Automation & Integrations:** flujos de trabajo, integraciones de APIs y automatización de procesos.
-- 🔐 **Security & Identity:** buenas prácticas de seguridad web, copias de respaldo, autenticación y control de acceso.
+- ⚙️ **Automation & Integrations:** flujos de trabajo, APIs y automatización de procesos.
+- 🔐 **Security & Identity:** seguridad web, copias de respaldo, autenticación y control de acceso.
 - 📈 **Digital Strategy:** SEO, analítica, marketing digital y crecimiento de negocios en Internet.
-- 🧩 **Custom Solutions:** desarrollo y adaptación de herramientas para necesidades reales de clientes.
+- 🧩 **Custom Solutions:** desarrollo y adaptación de herramientas para necesidades reales.
+
+### `$ ls ~/projects-and-initiatives/`
+
+#### 🌍 Datosfera | Estrategias digitales sin fronteras
+
+Desarrollo web, infraestructura, marketing y soluciones tecnológicas para organizaciones, negocios y emprendedores, con una visión que conecta mercados y personas.
+
+| Región | Sitio | Enfoque |
+| :--- | :--- | :--- |
+| 🇨🇴 **Colombia** | [datosfera.co](https://datosfera.co) | Estrategias y soluciones digitales para empresas y organizaciones. |
+| 🇪🇸 **España** | [datosfera.net](https://datosfera.net) | Acompañamiento digital a negocios y emprendedores en España. |
+| 🇺🇸 **Estados Unidos** | [datosfera.us](https://datosfera.us) | Soluciones digitales para negocios y comunidad emprendedora hispanohablante. |
+
+**Punto de encuentro:** [datosfera.click](https://datosfera.click)
+
+#### ❤️ Wompea | Tecnología para volver a empezar
+
+[**Wompea**](https://wompea.com) es una iniciativa colombiana que busca apoyar a comerciantes y emprendedores afectados por el sismo, facilitando su **reactivación digital** con sitios web y tiendas virtuales accesibles. Una forma de aportar a la recuperación de los negocios desde lo que sabemos hacer: tecnología.
+
+[Conocer la iniciativa de reactivación digital](https://wompea.com/reactivacion-digital-de-negocios/)
 
 ### `$ ./tech-stack.sh`
 
@@ -87,19 +111,19 @@ modo_actual: "Siempre experimentando 🚀"
 
 ### `$ cat currently-exploring.md`
 
-- 🤖 **IA aplicada:** asistentes, agentes, herramientas para desarrollo y automatizaciones útiles.
+- 🤖 **IA aplicada:** asistentes, agentes, herramientas de desarrollo y automatizaciones útiles.
 - 🏠 **Self-hosting:** construir y mantener servicios bajo mi propio control.
 - 🔑 **Identidad digital:** SSO, OIDC y autenticación moderna.
 - 📡 **Radioafición y SDR:** experimentar con radio, señales y comunicaciones alternativas.
 - 🛠️ **Homelab:** probar arquitecturas y documentar lo que aprendo.
 
-## 📡 Amateur Radio | HJ6VM
+### 📡 Amateur Radio | HJ6VM
 
-**CQ CQ CQ DE HJ6VM**
+**`CQ CQ CQ DE HJ6VM`**
 
-🇨🇴 Radioaficionado colombiano · Zona 6 · Categoría Novicio
+🇨🇴 Radioaficionado colombiano · Zona 6 · Categoría Novicio.
 
-Apasionado por las comunicaciones por radio, SDR (Software Defined Radio), antenas, propagación y comunicaciones de emergencia.
+Me apasionan las comunicaciones por radio, **SDR (Software Defined Radio)**, antenas, propagación y comunicaciones de emergencia. Para mí, la radio es otra manera de aprender, experimentar y conectar personas mediante la tecnología.
 
 `RF` · `SDR` · `VHF/UHF` · `Emergency Communications` · `Experimentation`
 
@@ -126,7 +150,7 @@ No todo es código. También me interesan la **música 🎵**, las **telecomunic
 
 **Me gusta conectar con personas que construyen, experimentan y comparten conocimiento.**
 
-[🌐 Web personal](https://soyjuli.us) · [💼 LinkedIn](https://www.linkedin.com/in/soyjulius/) · [🏢 Datosfera](https://datosfera.net) · [▶️ YouTube](https://www.youtube.com/@soyjuli_us)
+[🌐 Web personal](https://soyjuli.us) · [💼 LinkedIn](https://www.linkedin.com/in/soyjulius/) · [🌍 Datosfera](https://datosfera.click) · [❤️ Wompea](https://wompea.com) · [▶️ YouTube](https://www.youtube.com/@soyjuli_us)
 
 <sub>Hecho con curiosidad, café ☕ y muchas terminales abiertas.</sub>
 
