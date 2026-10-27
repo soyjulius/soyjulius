@@ -1,111 +1,121 @@
-### Hola parcer@ 👋
-<a href="https://www.facebook.com/emprendedoresfb">
-  <img align="left" alt="Orzalaga Facebook" width="22px" src="https://user-images.githubusercontent.com/2185794/152667984-3c99fd9b-c53d-4be4-9b72-cde99b67e7d0.svg" />
-</a>
-<a href="https://twitter.com/orzalaga">
-  <img align="left" alt="Orzalaga | Twitter" width="22px" src="https://user-images.githubusercontent.com/2185794/152667931-243d365d-ce46-4f72-ae25-605ac0cc1214.svg" />
-</a>
-<a href="https://www.linkedin.com/in/orzalaga/">
-  <img align="left" alt="orzalaga LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://instagram.com/orzalaga">
-  <img align="left" alt="Orzalaga Instagram" width="22px" src="https://user-images.githubusercontent.com/2185794/152667993-e2b9da41-0b1b-4387-acb6-b80910f303c6.svg" />
-</a>
-<a href="https://www.google.com.co/maps/contrib/115857676808822297118">
-  <img align="left" alt="Local Guide" width="22px" src="https://user-images.githubusercontent.com/2185794/152668092-7e93d0eb-423e-4060-b62b-3b1aaa0215af.svg" />
-</a>
-<a href="https://pixabay.com/es/users/orzalaga-77630/">
-  <img align="left" alt="Orzalaga Photo Pixabay" width="22px" src="https://user-images.githubusercontent.com/2185794/152668162-6ac45887-abd2-4e5d-b575-9aa390248399.svg" />
-</a>
-<a href="https://www.strava.com/athletes/orzalaga">
-  <img align="left" alt="Orzalaga Strava" width="22px" src="https://user-images.githubusercontent.com/2185794/152668171-78ebf7d0-6fb5-484f-b273-51a64edd4b4d.svg" />
-</a>
-<a href="https://www.last.fm/es/user/orzalaga">
-  <img align="left" alt="Orzalaga Last.fm" width="22px" src="https://user-images.githubusercontent.com/2185794/152668280-04eca6e4-8bff-4511-875f-e48ab0818a19.svg" />
-</a>
+<div align="center">
 
-![](https://visitor-badge.glitch.me/badge?page_id=orzalaga.orzalaga)
+# `> Hola, mundo!` 👋
 
-<br />
+### Soy Julio César Velásquez Mejía — `@soyjulius`
 
-Hola, soy [orzalaga](https://orzala.ga/), por esencia y hasta herencia: ``un emprendedor`` lleno de sueños e ideas. Nací en el año 1981 en la Ciudad de Pereira ciudad eje de Colombia. Mi ingrediente principal para saborear la vida es saber ser autodidacta para hacer cosas sin saber hacerlas. Mi mayor objetivo es levantarme todos los días a crear y cumplir cada uno de mis sueños con la misión de ayudar a muchas personas a que puedan hacer lo mismo con actitud y aptitud. 
-Padre de Familia de tiempo completo, músico empírico a ratos, fotógrafo de historias en mis viajes y programador de metas sin utilizar código.
+**Tech Entrepreneur · Web Developer · Linux Enthusiast · Digital Strategist**
 
-Más que Convencido, mi trabajo es convencer la necesidad que tenemos de transformarnos digitalmente como personas y empresas, pero sin dejar a un lado lo humano que nos hace únicos. Cuento con más de 18 años de experiencia como empleado y emprendedor en áreas profesionales de las telecomunicaciones y el marketing digital.
+📍 Dosquebradas, Colombia 🇨🇴 · 🚀 Construyendo proyectos digitales desde 2011
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-**Lo que hago en mi dia a dia:**  
+[![Website](https://img.shields.io/badge/Website-soyjuli.us-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://soyjuli.us)
+[![Datosfera](https://img.shields.io/badge/Datosfera-Estrategias_Digitales-238636?style=for-the-badge&logo=wordpress&logoColor=white)](https://datosfera.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soyjulius/)
 
-- 💼 Director de cuentas en [Datosfera](https://www.datosfera.co/)
-- 🧑‍💼 Trabajar desde Casa
-- 💬 Hablar con mi equipo de Trabajo, leads y Clientes
-- 🏆 Recorrer 30k en Bicicleta
-- 🎸 Tocar una buena canción
-- 📖 Leer un capítulo
-- 🖥️ Continuar con alguna clase virtual
-- ☕ Tomar un buen café
-- ✏️ Enseñar a quien lo necesite
+</div>
 
-<h2 align="left" id="macropower-tech">Mi parte técnica:</h2>
+---
 
-> Herramientas, lenguajes y tecnologías que sigo constantemente.
+### `$ whoami`
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/2185794/152669121-f6a966b8-7a83-4643-87a8-8fec8001c833.svg" width="48" height="48" alt="Bitcoin" />
-      </a>
-      <br>Bitcoin
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/2185794/152669143-a2dcd06c-83b0-43d0-a490-1e1cc6529d59.svg" width="48" height="48" alt="Wordpress" />
-      </a>
-      <br>Wordpress
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/2185794/152669416-9106216d-0a3b-4d9c-9e5e-1238dc670f61.svg" width="48" height="48" alt="Open Source" />
-      </a>
-      <br>Open
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/2185794/152669206-f6f42caf-d2da-4143-a321-ccac07d1f270.svg" width="48" height="48" alt="Ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/2185794/152669216-599affcd-e627-4a00-8fe7-8331526d74e6.svg" width="48" height="48" alt="cPanel" />
-      </a>
-      <br>Hosting
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/2185794/152669202-d48d2a48-65f3-43a0-87e3-f5ca079b71fd.svg" width="48" height="48" alt="Apache" />
-      </a>
-      <br>Web
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://user-images.githubusercontent.com/2185794/152669491-05a64a89-a849-4f28-8d0f-97368e81bec5.svg" width="48" height="48" alt="Shell" />
-      </a>
-      <br>Shell
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/2185794/152669249-8c2cb44c-568d-447f-bc5d-ebe77409601b.svg" width="48" height="48" alt="Cloud" />
-      </a>
-      <br>Cloud
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/2185794/152669263-924add27-4cbe-435d-b549-505b2ecf456e.svg" width="48" height="48" alt="CRM" />
-      </a>
-      <br>CRM
-    </td>
-  </tr>
-</table>
+Soy un **emprendedor tecnológico y desarrollador web** al que le apasiona convertir ideas en soluciones digitales que funcionan en el mundo real.
+
+Dirijo **[Datosfera S.A.S.](https://datosfera.net)**, una agencia digital colombiana desde la que trabajamos en desarrollo web, infraestructura tecnológica, estrategias digitales y soluciones a medida.
+
+Me gusta entender cómo funcionan las cosas: desde el frontend de un sitio hasta el servidor que lo mantiene en línea. Disfruto experimentar, automatizar tareas, aprender tecnologías nuevas y compartir lo que descubro.
+
+> **Mi filosofía:** aprender, construir, romper en laboratorio, solucionar y documentar. 🔧
+
+### `$ cat /etc/interests`
+
+```yaml
+nombre: Julio César Velásquez Mejía
+alias: soyjulius
+ubicacion: Dosquebradas, Colombia
+roles:
+  - Emprendedor tecnológico
+  - Director de Datosfera S.A.S.
+  - Desarrollador web y entusiasta de Linux
+  - Explorador de automatización e infraestructura
+intereses:
+  - Software libre y open source
+  - Servidores, self-hosting y homelabs
+  - WordPress y desarrollo web
+  - Inteligencia artificial y automatización
+  - Seguridad informática y privacidad
+  - Radioafición, SDR y telecomunicaciones
+  - Música, tecnología y aprendizaje continuo
+modo_actual: "Siempre experimentando 🚀"
+```
+
+### `$ ls ~/what-i-do/`
+
+- 🌐 **Web & eCommerce:** desarrollo y mantenimiento de sitios con WordPress, WooCommerce, Elementor y soluciones personalizadas.
+- 🐧 **Linux & Infrastructure:** administración de servidores, VPS, hosting, despliegues y mantenimiento de aplicaciones.
+- 🐳 **Containers & Self-hosting:** laboratorios y servicios desplegados con Docker y herramientas open source.
+- ⚙️ **Automation & Integrations:** flujos de trabajo, integraciones de APIs y automatización de procesos.
+- 🔐 **Security & Identity:** buenas prácticas de seguridad web, copias de respaldo, autenticación y control de acceso.
+- 📈 **Digital Strategy:** SEO, analítica, marketing digital y crecimiento de negocios en Internet.
+- 🧩 **Custom Solutions:** desarrollo y adaptación de herramientas para necesidades reales de clientes.
+
+### `$ ./tech-stack.sh`
+
+**Web, CMS y desarrollo**
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+**Infraestructura, datos y automatización**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+<sub>Herramientas que utilizo, administro o exploro; no es una lista de certificaciones ni de niveles de dominio.</sub>
+
+### `$ cat currently-exploring.md`
+
+- 🤖 **IA aplicada:** asistentes, agentes, herramientas para desarrollo y automatizaciones útiles.
+- 🏠 **Self-hosting:** construir y mantener servicios bajo mi propio control.
+- 🔑 **Identidad digital:** SSO, OIDC y autenticación moderna.
+- 📡 **Radioafición y SDR:** experimentar con radio, señales y comunicaciones alternativas.
+- 🛠️ **Homelab:** probar arquitecturas y documentar lo que aprendo.
+
+### `$ cat beyond-the-code.txt`
+
+No todo es código. También me interesan la **música 🎵**, las **telecomunicaciones 📡**, el **emprendimiento 💡**, el **deporte 🚴** y enseñar o compartir conocimientos. Me encantan las conversaciones largas sobre tecnología y las ideas que terminan convertidas en proyectos.
+
+### `$ git log --oneline --life`
+
+```text
+* build    Transformar ideas en soluciones reales
+* learn    Estudiar, probar y seguir mejorando
+* share    Documentar y compartir lo aprendido
+* repeat   Nunca dejar de experimentar
+```
+
+---
+
+<div align="center">
+
+### `> ¿Construimos algo interesante?`
+
+**Me gusta conectar con personas que construyen, experimentan y comparten conocimiento.**
+
+[🌐 Web personal](https://soyjuli.us) · [💼 LinkedIn](https://www.linkedin.com/in/soyjulius/) · [🏢 Datosfera](https://datosfera.net) · [▶️ YouTube](https://www.youtube.com/@soyjuli_us)
+
+<sub>Hecho con curiosidad, café ☕ y muchas terminales abiertas.</sub>
+
+</div>
