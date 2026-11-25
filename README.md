@@ -75,7 +75,11 @@ Me gusta estar en las dos puntas: la experiencia de quien usa una aplicación y 
 ### `$ tail -n 5 ~/blog.log`
  
 <!-- BLOG-POST-LIST:START -->
-<!-- Se llena solo con la GitHub Action .github/workflows/blog-posts.yml -->
+- [Extrayendo la esencia de la Teoría de los 4 Quemadores](https://soyjuli.us/extrayendo-la-esencia-de-la-teoria-de-los-4-quemadores/)
+- [2026: El año de los 18 puentes y por qué mi agenda no es igual a la de mis clientes](https://soyjuli.us/2026-el-ano-de-los-18-puentes-y-por-que-mi-agenda-no-es-igual-a-la-de-mis-clientes/)
+- [El año que no se parece a una lista](https://soyjuli.us/el-ano-que-no-se-parece-a-una-lista/)
+- [Colombia, reguetón y el inesperado &lpar;o esperado&rpar; lugar que hoy ocupamos en el mundo](https://soyjuli.us/colombia-regueton-y-el-inesperado-o-esperado-lugar-que-hoy-ocupamos-en-el-mundo/)
+- [Tráigame el RUT y el certificado no mayor a 30 días: el país que digitalizó el desorden](https://soyjuli.us/traigame-el-rut-y-el-certificado-no-mayor-a-30-dias-el-pais-que-digitalizo-el-desorden/)
 <!-- BLOG-POST-LIST:END -->
  
 ### 📡 `CQ CQ CQ DE HJ6VM`
