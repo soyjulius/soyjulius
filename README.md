@@ -52,17 +52,16 @@ Desde 2011 dirijo **[Datosfera S.A.S.](https://datosfera.click)**, una empresa f
 <details>
 <summary><b>Ver el ecosistema de marcas</b></summary>
 <br>
-| Línea | Marcas |
-| :--- | :--- |
-| ☁️ **Infraestructura y nube** | [NuHoster](https://www.nuhoster.com) · [Copired](https://www.copired.net) · [Workspace Colombia](https://www.workspacecolombia.com) |
-| ✉️ **Mensajería** | [SMS Activo](https://www.smsactivo.com) · [Correo Efectivo](https://www.correoefectivo.com) |
-| 🌐 **Web y WordPress** | [Dr. WordPress](https://drwordpress.net) |
-| 🎬 **Audiovisual y marketing** | [Poderosamente](https://www.poderosamente.com) · [Nubeento](https://www.nubeento.com) · [MK Político](https://www.mkpolitico.com) · [Meecard](https://meecard.com) |
-| 🎓 **Formación** | [Waplix](https://www.waplix.com) |
-| 🎤 **Artistas** | [KENTFE](https://kentfe.com) — agencia y sello tecnológico para artistas, con apps propias de gestión |
- 
-La historia de cada una está en [soyjuli.us/emprende](https://soyjuli.us/emprende/).
- 
+<table>
+  <tr><th align="left">Línea</th><th align="left">Marcas</th></tr>
+  <tr><td>☁️ <b>Infraestructura y nube</b></td><td><a href="https://www.nuhoster.com">NuHoster</a> · <a href="https://www.copired.net">Copired</a> · <a href="https://www.workspacecolombia.com">Workspace Colombia</a></td></tr>
+  <tr><td>✉️ <b>Mensajería</b></td><td><a href="https://www.smsactivo.com">SMS Activo</a> · <a href="https://www.correoefectivo.com">Correo Efectivo</a></td></tr>
+  <tr><td>🌐 <b>Web y WordPress</b></td><td><a href="https://drwordpress.net">Dr. WordPress</a></td></tr>
+  <tr><td>🎬 <b>Audiovisual y marketing</b></td><td><a href="https://www.poderosamente.com">Poderosamente</a> · <a href="https://www.nubeento.com">Nubeento</a> · <a href="https://www.mkpolitico.com">MK Político</a> · <a href="https://meecard.com">Meecard</a></td></tr>
+  <tr><td>🎓 <b>Formación</b></td><td><a href="https://www.waplix.com">Waplix</a></td></tr>
+  <tr><td>🎤 <b>Artistas</b></td><td><a href="https://kentfe.com">KENTFE</a> — agencia y sello tecnológico para artistas, con apps propias de gestión</td></tr>
+</table>
+<p>La historia de cada una está en <a href="https://soyjuli.us/emprende/">soyjuli.us/emprende</a>.</p>
 </details>
 ### `$ ls ~/what-i-do/`
  
