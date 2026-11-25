@@ -1,0 +1,23 @@
+# Guardar en el repo soyjulius como .github/workflows/blog-posts.yml
+# Actualiza la sección BLOG-POST-LIST del README con las últimas entradas de soyjuli.us
+name: Últimas entradas del blog
+
+on:
+  schedule:
+    - cron: "17 11 * * *"   # todos los días, ~6:17 a. m. hora Colombia
+  workflow_dispatch:         # para lanzarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://soyjuli.us/feed/"
+          max_post_count: 5
+          committer_username: "soyjulius"
+          commit_message: "chore: actualizar últimas entradas del blog"
