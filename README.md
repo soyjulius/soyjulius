@@ -19,7 +19,7 @@
  
 ### `$ whoami`
  
-Dirijo **[Datosfera S.A.S.](https://datosfera.click)**, donde unimos desarrollo web, infraestructura, automatización y estrategia digital para negocios en Colombia, España y Estados Unidos.
+Soy emprendedor tecnológico y desarrollador web. Llevo desde 2011 convirtiendo ideas en soluciones digitales que funcionan en el mundo real: sitios, servidores, automatizaciones y productos propios.
  
 Me gusta estar en las dos puntas: la experiencia de quien usa una aplicación y los servidores, contenedores y flujos que la mantienen viva.
  
@@ -30,6 +30,8 @@ Me gusta estar en las dos puntas: la experiencia de quien usa una aplicación y 
 <!-- Actualiza esta sección cada mes o dos: es lo que más dice de ti hoy. -->
  
 - 🗄️ **[XiraVault Colombia](https://github.com/soyjulius/xiravault-colombia)** — biblioteca offline en USB con información útil para emergencias, organizada por país, con fuentes citadas y búsqueda sin Internet. *En fase de diseño (v0.x).*
+- 🛰️ **Radar:** dashboard en tiempo real del Eje Cafetero —sismos, clima, METAR, vuelos, movilidad y noticias— que vive en una TV de mi casa. *n8n → Laravel 12 → TV/PWA.*
+- 📓 **Osicono:** mi propio software de bitácora para radioaficionados (PHP + MySQL, pensado para cPanel), en producción en [hj6vm.soyjuli.us](https://hj6vm.soyjuli.us).
 - 🏠 **Homelab:** Docker, Caddy, Authentik (SSO/OIDC), n8n, Postgres y Redis en mi propio VPS.
 - 📡 **Radio:** primeros pasos como HJ6VM en VHF/UHF, EchoLink y SDR — todo documentado en [mi bitácora](https://hj6vm.soyjuli.us).
 ### `$ ls ~/proyectos-destacados/`
@@ -37,10 +39,31 @@ Me gusta estar en las dos puntas: la experiencia de quien usa una aplicación y 
 | Proyecto | Qué es | Estado |
 | :--- | :--- | :--- |
 | 🗄️ [**XiraVault Colombia**](https://github.com/soyjulius/xiravault-colombia) | Respaldo offline de conocimiento en USB, open source y para la comunidad. | 🧪 Diseño |
-| ❤️ [**Wompea**](https://wompea.com) | Reactivación digital para comerciantes afectados por el sismo: webs y tiendas accesibles. | 🟢 Activo |
+| 🛰️ **Radar** | Monitoreo regional en tiempo real: 13 recolectores en n8n alimentan un backend Laravel con vista para TV y móvil. | 🟢 Uso diario · privado |
+| 📓 [**Osicono**](https://hj6vm.soyjuli.us) | Bitácora y libro de guardia para radioaficionados, con parte pública y panel privado. | 🟢 v0.x |
+| ❤️ [**Wompea**](https://wompea.com) | Reactivación digital para comerciantes y emprendedores afectados por el sismo del 10 de agosto de 2026: sitios web y tiendas virtuales accesibles. [Conocer la iniciativa →](https://wompea.com/reactivacion-digital-de-negocios/) | 🟢 Activo |
 | 💾 [**backup-ubuntu-lamp**](https://github.com/soyjulius/backup-ubuntu-lamp) | Script de copias de seguridad para servidores Ubuntu LAMP. | 🛠️ Utilidad |
 | ✉️ [**Email-Templates-vTiger-Spanish**](https://github.com/soyjulius/Email-Templates-vTiger-Spanish) | Plantillas de correo para vTiger CRM en español. | 📦 Archivo |
  
+### `$ ls ~/datosfera/`
+ 
+Desde 2011 dirijo **[Datosfera S.A.S.](https://datosfera.click)**, una empresa familiar de estrategia y servicios digitales con presencia en 🇨🇴 [Colombia](https://datosfera.co), 🇺🇸 [Estados Unidos](https://datosfera.us) y 🇪🇸 [España](https://datosfera.net). De ahí han salido varias marcas especializadas:
+ 
+<details>
+<summary><b>Ver el ecosistema de marcas</b></summary>
+<br>
+| Línea | Marcas |
+| :--- | :--- |
+| ☁️ **Infraestructura y nube** | [NuHoster](https://www.nuhoster.com) · [Copired](https://www.copired.net) · [Workspace Colombia](https://www.workspacecolombia.com) |
+| ✉️ **Mensajería** | [SMS Activo](https://www.smsactivo.com) · [Correo Efectivo](https://www.correoefectivo.com) |
+| 🌐 **Web y WordPress** | [Dr. WordPress](https://drwordpress.net) |
+| 🎬 **Audiovisual y marketing** | [Poderosamente](https://www.poderosamente.com) · [Nubeento](https://www.nubeento.com) · [MK Político](https://www.mkpolitico.com) · [Meecard](https://meecard.com) |
+| 🎓 **Formación** | [Waplix](https://www.waplix.com) |
+| 🎤 **Artistas** | [KENTFE](https://kentfe.com) — agencia y sello tecnológico para artistas, con apps propias de gestión |
+ 
+La historia de cada una está en [soyjuli.us/emprende](https://soyjuli.us/emprende/).
+ 
+</details>
 ### `$ ls ~/what-i-do/`
  
 - 🌐 **Web & eCommerce** — WordPress, WooCommerce, Laravel y desarrollos a medida.
@@ -55,6 +78,7 @@ Me gusta estar en las dos puntas: la experiencia de quien usa una aplicación y 
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![FrankenPHP](https://img.shields.io/badge/FrankenPHP-6C4EE3?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -63,6 +87,7 @@ Me gusta estar en las dos puntas: la experiencia de quien usa una aplicación y 
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
@@ -86,13 +111,21 @@ Me gusta estar en las dos puntas: la experiencia de quien usa una aplicación y 
  
 Radioaficionado colombiano · Zona 6 · Categoría Novicio. Me interesan **SDR**, antenas, propagación y **comunicaciones de emergencia**: otra forma de aprender y conectar personas con tecnología.
  
-📓 Llevo una **bitácora pública** de la estación —contactos, escuchas, experimentos e hitos— en **[hj6vm.soyjuli.us](https://hj6vm.soyjuli.us)**.
+📓 Llevo una **bitácora pública** de la estación —contactos, escuchas, experimentos e hitos— en **[hj6vm.soyjuli.us](https://hj6vm.soyjuli.us)**, hecha con Osicono, mi propio software.
+ 
+```yaml
+estacion: HJ6VM · Dosquebradas, Colombia
+radio:    Radtel RT-950 Pro (VHF/UHF, GPS/APRS) · firmware Ferrite en pruebas
+sdr:      RTL-SDR Blog V4
+en_curso: APRS, banda aérea, repetidoras locales
+proximo:  primer QSO por RF 🎯
+```
  
 [![Bitácora HJ6VM](https://img.shields.io/badge/Bitácora-hj6vm.soyjuli.us-F59E0B?style=flat-square)](https://hj6vm.soyjuli.us)
 [![QRZ](https://img.shields.io/badge/QRZ-HJ6VM-30363D?style=flat-square)](https://www.qrz.com/db/HJ6VM)
 [![EchoLink](https://img.shields.io/badge/EchoLink-activo-2E7D32?style=flat-square)](https://www.echolink.org)
  
-`RF` · `SDR` · `VHF/UHF` · `EchoLink` · `EmComm` — **73!**
+`RF` · `SDR` · `VHF/UHF` · `APRS` · `EchoLink` · `EmComm` — **73!**
  
 ### `$ git log --oneline --life`
  
