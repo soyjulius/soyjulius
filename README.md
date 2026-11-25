@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soyjulius/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@soyjuli_us)
 [![X](https://img.shields.io/badge/@soyjuli__us-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/soyjuli_us)
-[![QRZ](https://img.shields.io/badge/QRZ-HJ6VM-30363D?style=for-the-badge)](https://www.qrz.com/db/HJ6VM)
+[![HJ6VM](https://img.shields.io/badge/📡_HJ6VM-bitácora-30363D?style=for-the-badge)](https://hj6vm.soyjuli.us)
  
 </div>
 ---
@@ -31,7 +31,7 @@ Me gusta estar en las dos puntas: la experiencia de quien usa una aplicación y 
  
 - 🗄️ **[XiraVault Colombia](https://github.com/soyjulius/xiravault-colombia)** — biblioteca offline en USB con información útil para emergencias, organizada por país, con fuentes citadas y búsqueda sin Internet. *En fase de diseño (v0.x).*
 - 🏠 **Homelab:** Docker, Caddy, Authentik (SSO/OIDC), n8n, Postgres y Redis en mi propio VPS.
-- 📡 **Radio:** primeros pasos como HJ6VM en VHF/UHF, EchoLink y SDR.
+- 📡 **Radio:** primeros pasos como HJ6VM en VHF/UHF, EchoLink y SDR — todo documentado en [mi bitácora](https://hj6vm.soyjuli.us).
 ### `$ ls ~/proyectos-destacados/`
  
 | Proyecto | Qué es | Estado |
@@ -82,6 +82,12 @@ Me gusta estar en las dos puntas: la experiencia de quien usa una aplicación y 
  
 Radioaficionado colombiano · Zona 6 · Categoría Novicio. Me interesan **SDR**, antenas, propagación y **comunicaciones de emergencia**: otra forma de aprender y conectar personas con tecnología.
  
+📓 Llevo una **bitácora pública** de la estación —contactos, escuchas, experimentos e hitos— en **[hj6vm.soyjuli.us](https://hj6vm.soyjuli.us)**.
+ 
+[![Bitácora HJ6VM](https://img.shields.io/badge/Bitácora-hj6vm.soyjuli.us-F59E0B?style=flat-square)](https://hj6vm.soyjuli.us)
+[![QRZ](https://img.shields.io/badge/QRZ-HJ6VM-30363D?style=flat-square)](https://www.qrz.com/db/HJ6VM)
+[![EchoLink](https://img.shields.io/badge/EchoLink-activo-2E7D32?style=flat-square)](https://www.echolink.org)
+ 
 `RF` · `SDR` · `VHF/UHF` · `EchoLink` · `EmComm` — **73!**
  
 ### `$ git log --oneline --life`
@@ -100,6 +106,6 @@ Radioaficionado colombiano · Zona 6 · Categoría Novicio. Me interesan **SDR**
  
 Si construyes, experimentas o compartes conocimiento, hablemos.
  
-[🌐 soyjuli.us](https://soyjuli.us) · [💼 LinkedIn](https://www.linkedin.com/in/soyjulius/) · [🌍 Datosfera](https://datosfera.click) · [▶️ YouTube](https://www.youtube.com/@soyjuli_us) · [📸 Instagram](https://www.instagram.com/soyjuli_us)
+[🌐 soyjuli.us](https://soyjuli.us) · [💼 LinkedIn](https://www.linkedin.com/in/soyjulius/) · [🌍 Datosfera](https://datosfera.click) · [▶️ YouTube](https://www.youtube.com/@soyjuli_us) · [📡 HJ6VM](https://hj6vm.soyjuli.us) · [📸 Instagram](https://www.instagram.com/soyjuli_us)
  
 <sub>Hecho con curiosidad, café ☕ y muchas terminales abiertas.</sub>
